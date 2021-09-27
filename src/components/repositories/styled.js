@@ -40,6 +40,7 @@ export const WrapperTabPanel = styled(TabPanel)`
   border: 1px solid "#ccc";
   display: none;
   margin-top: -5px;
+  background: #efefef;
 
   &.is-selected {
     display: block;
